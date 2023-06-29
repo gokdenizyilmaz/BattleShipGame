@@ -36,6 +36,7 @@ coordinate14 = input("Enter coordinate 4 for player 1: ")
 
 player1 = Battleship(coordinate11, coordinate12, coordinate13, coordinate14)
 
+print("\n")
 
 coordinate21 = input("Enter coordinate 1 for player 2: ")
 coordinate22 = input("Enter coordinate 2 for player 2: ")
