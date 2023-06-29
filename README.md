@@ -1,6 +1,6 @@
 This is a simple battleship game designed for object-oriented programming practice. The objective of the game is to guess the coordinates of the opponent's ships by entering 4 coordinates as input.
 
-How to Play
+How to Play:
 Run the game.
 Player 1 enters 4 coordinates as their ship positions.
 Player 2 enters 4 coordinates as their ship positions.
@@ -9,7 +9,7 @@ Enter a coordinate as input to make a guess.
 The game will indicate whether the guess was a hit or a miss.
 Keep taking turns until one player successfully guesses all 4 ship coordinates of the opponent.
 The game ends, and the player who guessed all ship coordinates first wins.
-Getting Started
+Getting Started:
 To run the game, follow these steps:
 
 Clone the repository to your local machine.
